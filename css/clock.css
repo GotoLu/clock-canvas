@@ -1,0 +1,7 @@
+
+#clock{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+    border:1px solid #ccc;
+}
